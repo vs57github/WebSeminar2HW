@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Рассказ обо мне</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      
+      h1 {
+        font-size: 32px;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 50px;
+      }
+      
+      h2 {
+        font-size: 24px;
+        margin-top: 30px;
+      }
+      
+      p {
+        font-size: 16px;
+        margin-bottom: 20px;
+      }
+      
+      img {
+        max-width: 100%;
+        height: auto;
+        margin: 20px 0;
+      }
+      
+      ul {
+        list-style: disc;
+        margin-bottom: 20px;
+      }
+      
+      li {
+        margin-left: 20px;
+        margin-bottom: 10px;
+      }
+      
+      a {
+        color: #0077cc;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  
+  <body>
+    <h1>Рассказ обо мне</h1>
+    
+    <img src="https://placekitten.com/500/500" alt="Мой кот">
+    
+    <h2>Кто я?</h2>
+    
+    <p>Меня зовут Иван, мне 25 лет. Я живу в Москве и работаю программистом.</p>
+    
+    <h2>Мои увлечения</h2>
+    
+    <ul>
+      <li>Кодинг</li>
+      <li>Путешествия</li>
+      <li>Футбол</li>
+    </ul>
+    
+    <h2>Моя семья</h2>
+    
+    <p>У меня есть замечательный кот по имени Мурзик. Он уже старенький, но все еще очень игрив и любознателен.</p>
+    
+    <img src="https://placekitten.com/400/400" alt="Кот Мурзик">
+    
+    <h2>Мои достижения</h2>
+    
+    <ul>
+      <li>Написал свой первый сайт в 15 лет</li>
+      <li>Выиграл турнир по футболу в университете</li>
+      <li>Создал несколько проектов, которые помогают людям изучать программирование</li>
+    </ul>
+    
+    <h2>Контакты</h2>
+    
+    <p>Вы можете со мной связаться через мой профиль на <a href="https://github.com/ivanov">GitHub</a>.</p>
+  </body>
+</html>
